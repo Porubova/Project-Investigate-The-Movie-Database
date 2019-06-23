@@ -22,4 +22,4 @@ The project is broken down into a series of steps:
 - Exploratory Data Analysis
 - Conclusions
 
-The final project can be viewed [here](http://htmlpreview.github.io/?https://github.com/Porubova/Project-Investigate-The-Movie-Database/master/Investigate_a_Dataset.ipynb).
+The final project can be viewed [here](http://htmlpreview.github.io/?https://github.com/Porubova/Project-Investigate-The-Movie-Database/blob/master/Investigate_a_Dataset.html).
